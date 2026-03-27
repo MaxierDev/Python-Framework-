@@ -20,9 +20,6 @@ target_color = (255, 0, 0)
 font = pygame.font.Font(None, 36)
 text=font.render("Framework", True, (255,255,255)) #Invisible 
 
-sound=pygame.mixer.Sound('sound.ogg')
-
-
 while running:
     for event in pygame.event.get():
 
