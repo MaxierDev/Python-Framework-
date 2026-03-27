@@ -4,6 +4,9 @@ Aim: To get the blue box to catch a randomly spawning red target.
 
 How to play: 
 Move Up: W or Up Arrow 
+
 Move Down: S or Down Arrow
+
 Move Left: A or Left Arrow
+
 Move Right: D or Right Arrow
