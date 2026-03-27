@@ -1,6 +1,6 @@
 A lightweight, simple game built using Python and Pygame where the player controls a blue box. This game has a score count as well!
 
-Aim: To get the blue box to catch a randomly spawning red target.
+Aim: To get the blue box to catch a randomly spawning red target as it teleports around the map.
 
 How to play: 
 Move Up: W or Up Arrow 
